@@ -7,4 +7,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: echo a string
-              run: echo "Hello, Security Gurus! This is our First GitHub Action @ $(date)"
+              run: echo "Hello, Security Gurus! This is our First GitHub Action @ $(date) and it shoudl work"
